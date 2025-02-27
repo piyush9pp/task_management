@@ -137,7 +137,7 @@ A **PostgreSQL trigger** auto-updates overdue tasks.
 ✅ Middleware rejects invalid requests (e.g., title containing `"test"`).  
 
 ### **Frontend UI Approach**
-Built with **React + Local State (No Redux)** for simplicity. Features include:
+Built with **React + Local State** for simplicity. Features include:
 - **Filters for High Priority & Due Soon tasks**.
 - **Dynamic Status Dropdown**.
 - **Minimalistic & Responsive UI**.
