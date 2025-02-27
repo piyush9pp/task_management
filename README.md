@@ -117,7 +117,7 @@ EXECUTE FUNCTION mark_overdue_tasks();
 
 ---
 
-## 💑 **Short Write-up**
+##  **Short Write-up**
 ### **API & Database Design**
 The backend follows **RESTful principles** using **Express.js** and **Sequelize ORM** for PostgreSQL. The **tasks table** has constraints:
 - `title` is **unique**.
