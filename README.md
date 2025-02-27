@@ -165,9 +165,7 @@ By structuring the API efficiently, ensuring proper database constraints, and bu
 ---
 
 ## 📧 Contact
-For any queries, feel free to contact **yourname@email.com**.
+For any queries, feel free to contact **piyushprasad912@gmail.com**.
 
 ---
-
-🚀 **Happy Coding!** 🎯
 
